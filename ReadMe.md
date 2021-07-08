@@ -1,4 +1,4 @@
-#Implementation of all the algorithms
+# Implementation of all the algorithms
 
 ### Searching Algorithms
 - Linear Search
