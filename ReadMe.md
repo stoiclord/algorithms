@@ -13,3 +13,6 @@
 - Selection Sort
 - Quick Sort
 - Merge Sort
+
+#### References
+- https://github.com/trekhleb/javascript-algorithms#algorithms
